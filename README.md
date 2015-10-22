@@ -1,4 +1,4 @@
-<h4 align="center">Web Design for Everybody Specialization</h4>
+<h1 align="center">Web Design for Everybody Specialization</h1>
 <h3 align="center">Learn to Design and Create Websites</h3>
 <p align="center">
   Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScrip
@@ -9,7 +9,6 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ## Courses
 
-- [About](#about-this-specialization)
 - [Introduction to HTML5](#introduction-to-html5)
 - [Introduction to CSS3](#introduction-to-css3)
 - [Interactivity with JavaScript](#interactivity-with-JavaScript)
