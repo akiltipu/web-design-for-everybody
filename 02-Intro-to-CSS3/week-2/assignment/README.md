@@ -1,7 +1,7 @@
-Instructions
+#Instructions
 In this assignment you will take my HTML code and create a single html file called hw1.css.  It should style the page following the guidelines provided.  You can see an example final product at http://www.intro-webdesign.com/CSS/assignment-2/index.jpg
  
-Steps:
+##Steps:
 
 1) Download the image from http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg and put it into a folder named images. 
 
