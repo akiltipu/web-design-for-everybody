@@ -30,10 +30,10 @@ This course introduce the basics of the JavaScript language. Cover concepts such
 
 ## Advanced Styling with Responsive Design
 
-This course expand upon the basic knowledge of CSS3 to include topics such as wireframes, fluid design, media queries, and the use of existing styling paradigms such as Bootstrap.  After the course, be able to:
-** Explain the mobile-first paradigm the importance of  wireframes in the design phase
-** Create sites that behave across a range of platforms
-** Utilize existing design frameworks such as Bootstrap
+This course expand upon the basic knowledge of CSS3 to include topics such as wireframes, fluid design, media queries, and the use of existing styling paradigms such as Bootstrap.  After the course, be able to:  
+* Explain the mobile-first paradigm the importance of  wireframes in the design phase  
+* Create sites that behave across a range of platforms    
+* Utilize existing design frameworks such as Bootstrap  
 
 ## Web Design for Everybody Capstone
 
