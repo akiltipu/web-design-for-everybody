@@ -1,7 +1,7 @@
 <h1 align="center">Web Design for Everybody Specialization</h1>
 <h3 align="center">Learn to Design and Create Websites</h3>
 <p align="center">
-  Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScript
+  Build a responsive and accessible web portfolio using HTML5, CSS3, and JavaScript(Web Development)
 </p>
 
 ## About This Specialization
